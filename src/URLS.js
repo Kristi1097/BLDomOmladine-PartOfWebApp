@@ -1,0 +1,43 @@
+module.exports = global.urls = {
+    links : {
+         //"http://192.168.53.105:8080"
+         //"http://localhost:8080"
+        bazniURL: "http://localhost:8080/",
+        nalozi: "http://localhost:8080/nalozi/",
+        prijava: "http://localhost:8080/prijava",
+        vijestiPocetna: "http://localhost:8080/vijesti/mjesecDana/0",
+        zahtjeviPocetna: "http://localhost:8080/zahtjevi/naCekanju",
+        kalendarPocetna: 'http://localhost:8080/kalendar/cetiriMjeseca/specijalno',
+        vijesti: "http://localhost:8080/vijesti/",
+        dodavanjeVijesti: "http://localhost:8080/vijesti",
+        dodavanjeSlikeVijesti:"http://localhost:8080/domSlike/slikeVijesti",
+        vijestiMjesecDana: "http://localhost:8080/vijesti/mjesecDana/",
+        vijestiSlikeVijesti: "http://localhost:8080/domSlike/slikeVijesti/",
+        dogadjaji: "http://localhost:8080/dogadjaji/",
+        vrsteDogadjaja: "http://localhost:8080/vrste",
+        pokrovitelji:"http://localhost:8080/pokrovitelji",
+        dodavanjeSlikePokrovitelja: "http://localhost:8080/domSlike/slikePokrovitelja",
+        dogadjaji: "http://localhost:8080/dogadjaji/",
+        dodavanjeSlikeDogadjaja:"http://localhost:8080/domSlike/slikeDogadjaja",
+        dogadjajiMjesecDana: "http://localhost:8080/dogadjaji/mjesecDana/",
+        dogadjajiSlikeDogadjaja: "http://localhost:8080/domSlike/slikeDogadjaja/",
+        slikePokrovitelja: "http://localhost:8080/domSlike/slikePokrovitelja/",
+        kalendarURL: "http://localhost:8080/kalendar/godinaDana/specijalno/0",
+        salaPrikazURL: "http://localhost:8080/sale/",
+        saleURL: "http://localhost:8080/sale",
+        zauzeceSaleURL: "http://localhost:8080/zauzeceSala/",
+        zahtjevPrikazURL: "http://localhost:8080/zahtjevi/",
+        zahtjeviURL: "http://localhost:8080/zahtjevi/mjesecDana/",
+        slikeURL: "http://localhost:8080/domSlike/slikeSala/",
+        inventarURL: "http://localhost:8080/inventari/1",
+        statistikaSaleZauzeceMjesecnoURL: "http://localhost:8080/statistika/sale/zauzece/mjesecna_",
+        statistikaSaleZauzeceSedmicnoURL: "http://localhost:8080/statistika/sale/zauzece/sedmicna_",
+        statistikaSaleZauzeceGodisnjeURL: "http://localhost:8080/statistika/sale/zauzece/godisnja_",
+        statistikaVijestiPreglediMjesecnoURL: "http://localhost:8080/statistika/vijesti/pregledi/mjesecna_",
+        statistikaVijestiPreglediSedmicnoURL: "http://localhost:8080/statistika/vijesti/pregledi/sedmicna_",
+        statistikaVijestiPreglediGodisnjeURL: "http://localhost:8080/statistika/vijesti/pregledi/godisnja_",
+        statistikaDogadjajiPreglediMjesecnoURL: "http://localhost:8080/statistika/dogadjaji/pregledi/mjesecna_",
+        statistikaDogadjajiPreglediSedmicnoURL: "http://localhost:8080/statistika/dogadjaji/pregledi/sedmicna_",
+        statistikaDogadjajiPreglediGodisnjeURL: "http://localhost:8080/statistika/dogadjaji/pregledi/godisnja_"
+    }
+};
